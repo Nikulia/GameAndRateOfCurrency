@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game And Rate Of Currency</string>
+    <string name="button_compare">Сравнить</string>
+    <string name="button_monkey_treasure">Monkey Treasure</string>
+    <string name="button_play_again">Заново</string>
+    <string name="button_web_view">WebView</string>
+    <string name="congratulations">Поздравляем!</string>
+    <string name="description_image_with_treasure_chest">Картинка сундук с сокровищами</string>
+    <string name="dialog_lose_message">Ты проиграл! Сыграем ещё раз?</string>
+    <string name="dialog_lose_title">Сожалеем!</string>
+    <string name="dialog_message_win">Ты помог мартышке найти золото! Сыграем еще раз?</string>
+    <string name="image_fragment_of_minefield">Фрагмент минного поля</string>
+    <string name="image_start">Картинка старта</string>
+    <string name="label_current_dollar">Текущее значение доллара США:</string>
+    <string name="value_of_the_dollar_did_not_load">Текущее значение доллара не загружено:(</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Game And Rate Of Currency</string>
+    <string name="button_web_view">WebView</string>
+    <string name="button_monkey_treasure">Monkey Treasure</string>
+    <string name="description_image_with_treasure_chest">Image with treasure chest</string>
+    <string name="image_start">Image start</string>
+    <string name="image_fragment_of_minefield">Fragment of minefield</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="button_play_again">Play again</string>
+    <string name="dialog_message_win">You helped monkey to find a gold! Let\'s game again!</string>
+    <string name="dialog_lose_title">Sorry!</string>
+    <string name="dialog_lose_message">You lose! Let\'s play again!</string>
+    <string name="label_current_dollar">The current value of the US dollar:</string>
+    <string name="button_compare">Compare</string>
+    <string name="value_of_the_dollar_did_not_load">Current value of the dollar didn\'t load</string>
+</resources>
