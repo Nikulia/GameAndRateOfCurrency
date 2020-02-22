@@ -23,7 +23,7 @@ public class WebViewActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_web_view);
-        textViewCurrentDollar = findViewById(R.id.textViewCurrenDollar);
+        textViewCurrentDollar = findViewById(R.id.textViewCurrentDollar);
         webViewCurrencyComparator = findViewById(R.id.webViewCurrencyComparator);
         Intent intent = getIntent();
         if (intent != null && intent.hasExtra(MainActivity.INTENT_DOLLAR_RATE)) {

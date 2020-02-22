@@ -6,7 +6,6 @@ import android.view.View;
 import android.widget.ProgressBar;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.view.ViewCompat;
 
 import com.nikolaevtsev.gameandrateofcurrency.R;
 import com.nikolaevtsev.gameandrateofcurrency.abstract_.view_abstract.MainActivityAbstract;
